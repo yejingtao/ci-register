@@ -1,0 +1,8 @@
+运维自动化服务-阿里云客户端
+
+只负责定制和实现阿里云相关的功能
+
+请根据实际情况修改注册地址:eureka.client.serviceUrl.defaultZone
+请根据实际情况修改日志地址:logging.file
+
+需要传入参数accessKeyID、accessKeySecret与阿里云交互，默认cn-beijing区
